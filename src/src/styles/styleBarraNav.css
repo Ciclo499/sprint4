@@ -1,0 +1,23 @@
+.btnBarra{
+    background-color: dimgrey;
+    color:white;
+    font-size:30px;
+    padding:1%;
+    border:0ch;
+
+}
+
+.blockBarra{
+    background-color: dimgrey;
+}
+
+.blockLinks {
+    background-color: dimgrey;
+    padding: 1%;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}

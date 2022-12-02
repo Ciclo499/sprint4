@@ -1,0 +1,18 @@
+
+#colPers {
+    background-color: darkgray;
+    margin-top: 7%;  
+    padding: 2%;  
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 18px;
+}
+
+#imagenLogin{
+    height: 100px;
+    margin-bottom: 5%;
+}
+
+::placeholder {
+    font-size: 15px;
+}
